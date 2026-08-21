@@ -4,34 +4,34 @@
   "kenh": "thu_nghiem",
   "phien_ban": "1.1.0",
   "bat_buoc": false,
-  "luc": "2026-08-22 01:55:56",
+  "luc": "2026-08-22 02:15:28",
   "ghi_chu": "thu cap nhat ten AutoKitx",
   "tep": [
    {
     "ten": "AutoKitx.exe",
     "bam": "1edf5fedd51f26b33c1d9c24d7dab06b37664ebf8d2b2fd17d1098e0d770edda",
     "kich_thuoc": 39079936,
-    "url": "http://127.0.0.1:52099/AutoKitx.exe"
+    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.1.0/AutoKitx.exe"
    },
    {
     "ten": "AutoKitx_CapNhat.exe",
     "bam": "27869bc7c6daaaeb35f7638db34fa52ff08f1272d3463496cb29db2a48f5ce52",
     "kich_thuoc": 7665152,
-    "url": "http://127.0.0.1:52099/AutoKitx_CapNhat.exe"
+    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.1.0/AutoKitx_CapNhat.exe"
    },
    {
     "ten": "AutoKitx_HuongDan.txt",
     "bam": "ea841dd46ca61f90452241a9f8e3b8b1dc57f632420709ee7fe627621d01cc40",
     "kich_thuoc": 19747,
-    "url": "http://127.0.0.1:52099/AutoKitx_HuongDan.txt"
+    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.1.0/AutoKitx_HuongDan.txt"
    },
    {
     "ten": "AutoKitx_CaiDat.bat",
     "bam": "1cf9ddb5f314db832b97336eb474e57b675d5292189e494184dd17a66991c65f",
     "kich_thuoc": 6195,
-    "url": "http://127.0.0.1:52099/AutoKitx_CaiDat.bat"
+    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.1.0/AutoKitx_CaiDat.bat"
    }
   ],
-  "chu_ky": "KoYG+Z55VAr//OU5mIHnTpNOP7FWbL9cy/N5rsULcSsW2YoWDHxxv5zZXvRMZUmUr8hvt808ysMmBjWZ1GWVBg=="
+  "chu_ky": "O3nGTuU3MKNdS7XtH5AWRIjFIRfKhs5SdNiXSs64N04KjbrdD0rtfzK7MOBY6KYGtuxmT+SajNf6IhyAFMQoAQ=="
  }
 }
