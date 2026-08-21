@@ -1,0 +1,37 @@
+{
+ "thu_nghiem": {
+  "san_pham": "autokitx",
+  "kenh": "thu_nghiem",
+  "phien_ban": "1.1.0",
+  "bat_buoc": false,
+  "luc": "2026-08-22 01:17:39",
+  "ghi_chu": "thu cap nhat ten AutoKitx",
+  "tep": [
+   {
+    "ten": "AutoKitx.exe",
+    "bam": "a8c7679c8f437f581aaa22ec189ffeee000471963c56f6fd3e1ae1fe6b870210",
+    "kich_thuoc": 39075840,
+    "url": "http://127.0.0.1:52099/AutoKitx.exe"
+   },
+   {
+    "ten": "AutoKitx_CapNhat.exe",
+    "bam": "498585640ae6643f8b7501f20e993f06d47f5d42ff040dc1f1542e1b4b8bcf1a",
+    "kich_thuoc": 7657472,
+    "url": "http://127.0.0.1:52099/AutoKitx_CapNhat.exe"
+   },
+   {
+    "ten": "AutoKitx_HuongDan.txt",
+    "bam": "ea841dd46ca61f90452241a9f8e3b8b1dc57f632420709ee7fe627621d01cc40",
+    "kich_thuoc": 19747,
+    "url": "http://127.0.0.1:52099/AutoKitx_HuongDan.txt"
+   },
+   {
+    "ten": "AutoKitx_CaiDat.bat",
+    "bam": "1cf9ddb5f314db832b97336eb474e57b675d5292189e494184dd17a66991c65f",
+    "kich_thuoc": 6195,
+    "url": "http://127.0.0.1:52099/AutoKitx_CaiDat.bat"
+   }
+  ],
+  "chu_ky": "xeSjMeHG9UBBDMtnCiq9ZNFwcVz9UeiDwLp7jf+ik9jdqUqaCMGoEIC+DjmFocfvA+94P6PjWOxckgKnIvj1AQ=="
+ }
+}
