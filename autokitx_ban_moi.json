@@ -37,42 +37,42 @@
  "on_dinh": {
   "san_pham": "autokitx",
   "kenh": "on_dinh",
-  "phien_ban": "1.2.8",
+  "phien_ban": "1.2.9",
   "bat_buoc": false,
-  "luc": "2026-11-15 20:37:15",
-  "ghi_chu": "Bản 1.2.8 — cải tiến ổn định và tính năng.",
+  "luc": "2026-11-15 21:08:20",
+  "ghi_chu": "Bản 1.2.9 — cải tiến ổn định và tính năng.",
   "tep": [
    {
     "ten": "AutoKitx.exe",
-    "bam": "8760dcff76a41d3a706f58a519503a32dbebb87ebe1d4400de07c354faa9ec96",
-    "kich_thuoc": 49705984,
-    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.2.8/AutoKitx.exe"
+    "bam": "6e28af141f69cc88467ee6f4bccf04523226132d7c3f3e69525d731eae5823f9",
+    "kich_thuoc": 49723392,
+    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.2.9/AutoKitx.exe"
    },
    {
     "ten": "AutoKitx_CapNhat.exe",
-    "bam": "e6b5c136165ac75d706c16aa6a059336e7b9dc1ec14943f7732e09c7917b7b5d",
+    "bam": "218d7553faa43ac7a99c5a6afac954221c86eb9aae86fb0cfdd726cd4b0d0d9d",
     "kich_thuoc": 7699968,
-    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.2.8/AutoKitx_CapNhat.exe"
+    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.2.9/AutoKitx_CapNhat.exe"
    },
    {
     "ten": "AutoKitx_HuongDan.txt",
     "bam": "ae39d518bc85ec38a38ec8eb2930a3f8c378f771d42ef5d044edc328ea128a8c",
     "kich_thuoc": 22543,
-    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.2.8/AutoKitx_HuongDan.txt"
+    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.2.9/AutoKitx_HuongDan.txt"
    },
    {
     "ten": "AutoKitx_CaiDat.bat",
     "bam": "2c4456e89e3beec6078e3b274f9abae3d53556593ed91f08823190463ef03976",
     "kich_thuoc": 5479,
-    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.2.8/AutoKitx_CaiDat.bat"
+    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.2.9/AutoKitx_CaiDat.bat"
    },
    {
     "ten": "DIEN_THONG_TIN.bat",
     "bam": "6cfbbb0b5fc66efc02091a8ef82c31a6c52742d8792ad48b466ccddcd1083310",
     "kich_thuoc": 1993,
-    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.2.8/DIEN_THONG_TIN.bat"
+    "url": "https://github.com/AutoKitx/autokitx-files/releases/download/v1.2.9/DIEN_THONG_TIN.bat"
    }
   ],
-  "chu_ky": "rBnbLpUvyGitU4edzAon8DAOI91ObVHMTOVTOyFU5Fv7hJ7n+9jCrDzmAeOQmFuydHuwoKa6JBV6Ll9gNFYMDA=="
+  "chu_ky": "Q8YniNPIJ+QJw5jUuSuIAYmIkf9kib+EpFo0FlFcko3+fS9Xoyyn8+UQ0UNqXfofLQESMKodDDlkh/G2kKwKAw=="
  }
 }
